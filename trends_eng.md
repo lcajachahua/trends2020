@@ -6,7 +6,7 @@ This is a compilation of several Tecnhologic and Business Trends reports for 202
 
 #### Summary
 
-![Summary](doc/Trends_2020.png)
+![Summary](docs/Trends_2020.png)
 
 
 
