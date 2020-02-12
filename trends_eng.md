@@ -3,12 +3,12 @@
 This is a compilation of several Tecnhologic and Business Trends reports for 2020.
 
 
-#### Summary:
+## Summary:
 
 ![Summary](docs/Trends_2020.png)
 
 
-### References:
+## References:
 
 The summary was made considering the following reports. Pdf links are provided separately for the majority of them.
 
@@ -81,7 +81,7 @@ Change Your Business](https://www.gartner.com/en/documents/3906812/top-10-data-a
 
 
 
-### Other Useful Reports
+## Other Useful Reports
 
 [1] Wunderman: [THE FUTURE 100: Trends and change to watch in 2020](https://www.jwtintelligence.com/trend-reports/the-future-100-2020/)
 
