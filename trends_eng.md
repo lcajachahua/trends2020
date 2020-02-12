@@ -8,9 +8,10 @@ This is a compilation of several Tecnhologic and Business Trends reports for 202
 ![Summary](docs/Trends_2020.png)
 
 
-#### References
+### References
 
-[1] Accenture: Banking in 2020: 10 key trends to watch ([Summary](https://www.accenture.com/fi-en/insights/banking/10-key-trends-banking-2020), [pdf](https://financialservices.accenture.com/rs/368-RMC-681/images/Accenture-Top-10-Banking-Trends-2020.pdf))
+#### Accenture: 
+[1] Banking in 2020: 10 key trends to watch ([Summary](https://www.accenture.com/fi-en/insights/banking/10-key-trends-banking-2020), [pdf](https://financialservices.accenture.com/rs/368-RMC-681/images/Accenture-Top-10-Banking-Trends-2020.pdf))
 
 
 
