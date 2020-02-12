@@ -2,8 +2,6 @@
 
 This is a compilation of several Tecnhologic and Business Trends reports for 2020.
 
-También disponible en [Español] y [Portugués]
-
 
 #### Summary:
 
