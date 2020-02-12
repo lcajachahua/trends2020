@@ -87,7 +87,7 @@ Change Your Business](https://www.gartner.com/en/documents/3906812/top-10-data-a
 
 [1] Wunderman: [THE FUTURE 100: Trends and change to watch in 2020](https://www.jwtintelligence.com/trend-reports/the-future-100-2020/)
 
-[2] Ben Evans: [Tech in 2020: Standing on the shoulders of giants](https://www.ben-evans.com/presentations) ([pdf](docs/2020+Benedict+Evans+Shoulders+of+Giants.pdf)
+[2] Ben Evans: [Tech in 2020: Standing on the shoulders of giants](https://www.ben-evans.com/presentations) ([pdf](docs/2020+Benedict+Evans+Shoulders+of+Giants.pdf))
 
 [3] Milward Brown: [Media Trends & Predictions 2020](https://www.millwardbrown.com/DigitalPredictions/2020/index.html)
 
@@ -119,7 +119,7 @@ Change Your Business](https://www.gartner.com/en/documents/3906812/top-10-data-a
 
 [17] [WorkMarket 2020 In(Sight) Report: What AI & Automation Really Mean For Work](https://www.workmarket.com/press/workmarket-2020-insight-report-what-artificial-intelligence-automation-mean-for-work)
 
-[18] [2020 technology trends and the future of work](https://www.dxc.technology/innovation/flxwd/147718-2020_technology_trends]
+[18] [2020 technology trends and the future of work](https://www.dxc.technology/innovation/flxwd/147718-2020_technology_trends)
 
 [19] [Top 7 digital transformation trends shaping 2020](https://www.zdnet.com/article/top-7-digital-transformation-trends-shaping-2020/)
 
