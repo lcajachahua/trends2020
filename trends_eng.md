@@ -1,6 +1,6 @@
 # Technology & Business Trends for 2020
 
-This is a compilation of several reports for 2020.
+This is a compilation of the most important trend reports for 2020.
 
 
 ## Summary:
