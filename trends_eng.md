@@ -82,6 +82,7 @@ Change Your Business](https://www.gartner.com/en/documents/3906812/top-10-data-a
 
 
 
+
 ## Other Useful Reports
 
 [25] Wunderman: [THE FUTURE 100: Trends and change to watch in 2020](https://www.jwtintelligence.com/trend-reports/the-future-100-2020/)
@@ -147,4 +148,21 @@ Change Your Business](https://www.gartner.com/en/documents/3906812/top-10-data-a
 [55] [Here are the top tech trends of 2020, according to top experts](https://www.fastcompany.com/90374432/here-are-the-top-tech-trends-of-2020-according-to-top-experts)
 
 [56] [13 Analytics and AI Predictions from 12 Experts for 2020](https://solutionsreview.com/business-intelligence/13-analytics-and-ai-predictions-from-12-experts-for-2020/)
+
+
+
+
+## World Economic Forum
+
+[57] [The Global Risks Report 2020](https://www.weforum.org/reports/the-global-risks-report-2020) ([Pdf](http://www3.weforum.org/docs/WEF_Global_Risk_Report_2020.pdf))
+
+[58] [What’s everyone talking about at Davos 2020?](https://www.weforum.org/agenda/2020/01/what-are-people-talking-about-at-davos/)
+
+[59] [Day 1, Davos. Our LinkedIn Live debut. We need more social climbing. Unanswered questions.](https://www.linkedin.com/pulse/day-1-davos-our-linkedin-live-debut-we-need-more-social-adrian-monck/)
+
+[60] [Day 2. Hearing not listening. A trillion Trees. Saving a nation with sanitation.](https://www.linkedin.com/pulse/davos-day-2-hearing-listening-trillion-saving-nation-sanitation/)
+
+[61] [Day 3. Your influencer guide. Reskilling revolution. Parenting tips.](https://www.linkedin.com/pulse/davos-day-3-your-influencer-guide-reskilling-revolution-adrian-monck/)
+
+[62] [Final day from Davos. A Mexican wave farewell. Youngest PM. Protest into progress.](https://www.linkedin.com/pulse/final-day-from-davos-mexican-wave-farewell-youngest-pm-adrian-monck/)
 
