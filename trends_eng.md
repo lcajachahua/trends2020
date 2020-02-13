@@ -66,86 +66,85 @@ Change Your Business](https://www.gartner.com/en/documents/3906812/top-10-data-a
 
 [20] [Why 2020 is the Year for 5G and IoT](https://www.teradata.com/Blogs/Why-2020-is-the-Year-for-5G-and-IoT)
 
+[21] [2020 Emerging Technologies Trend: Enteprise DigitalOps processes hyperautomated by IPA platforms](https://medium.com/@pabloesc/2020-emerging-technologies-trend-enteprise-digitalops-processes-hyperautomated-by-ipa-platforms-28624def23a4)
 
 #### E&Y
 
-[21] [Digital transformation for 2020 and beyond](https://www.ey.com/Publication/vwLUAssets/ey-digital-transformation-for-2020-and-beyond/$FILE/ey-digital-transformation-for-2020-and-beyond.pdf)
+[22] [Digital transformation for 2020 and beyond](https://www.ey.com/Publication/vwLUAssets/ey-digital-transformation-for-2020-and-beyond/$FILE/ey-digital-transformation-for-2020-and-beyond.pdf)
 
-[22] [Transforming Paradigms: A Global AI in Financial Services Survey](https://assets.ey.com/content/dam/ey-sites/ey-com/en_gl/topics/innovation/ey-why-a-i-will-redefine-the-financial-services-industry-in-two-years.pdf)
+[23] [Transforming Paradigms: A Global AI in Financial Services Survey](https://assets.ey.com/content/dam/ey-sites/ey-com/en_gl/topics/innovation/ey-why-a-i-will-redefine-the-financial-services-industry-in-two-years.pdf)
 
-[23] [Five major trends which will underpin another decade of digital innovation](https://www.ey.com/en_gl/advisory/five-major-trends-which-will-underpin-another-decade-of-digital-innovation)
+[24] [Five major trends which will underpin another decade of digital innovation](https://www.ey.com/en_gl/advisory/five-major-trends-whi4ch-will-underpin-another-decade-of-digital-innovation)
 
 
-#### Bain:
-[24] Davos 2020: How to Survive the 21st Century ([Video](https://www.bain.com/insights/davos-2020-how-to-survive-the-21st-century-video/))
+#### Bain & Co
+[25] Davos 2020: How to Survive the 21st Century ([Video](https://www.bain.com/insights/davos-2020-how-to-survive-the-21st-century-video/))
 
 
 
 ## Other Useful Reports
 
-[1] Wunderman: [THE FUTURE 100: Trends and change to watch in 2020](https://www.jwtintelligence.com/trend-reports/the-future-100-2020/)
+[25] Wunderman: [THE FUTURE 100: Trends and change to watch in 2020](https://www.jwtintelligence.com/trend-reports/the-future-100-2020/)
 
-[2] Ben Evans: [Tech in 2020: Standing on the shoulders of giants](https://www.ben-evans.com/presentations) ([pdf](docs/2020+Benedict+Evans+Shoulders+of+Giants.pdf))
+[26] Ben Evans: [Tech in 2020: Standing on the shoulders of giants](https://www.ben-evans.com/presentations) ([pdf](docs/2020+Benedict+Evans+Shoulders+of+Giants.pdf))
 
-[3] Milward Brown: [Media Trends & Predictions 2020](https://www.millwardbrown.com/DigitalPredictions/2020/index.html)
+[27] Milward Brown: [Media Trends & Predictions 2020](https://www.millwardbrown.com/DigitalPredictions/2020/index.html)
 
-[4] IDC: [The Future Enterprise: Hyperscale, Hyperspeed and Hyperconnected](https://www.idc.com/cee/events/66895-idc-predictions-2020)
+[28] IDC: [The Future Enterprise: Hyperscale, Hyperspeed and Hyperconnected](https://www.idc.com/cee/events/66895-idc-predictions-2020)
 
-[5] IDC: [Top 10 worldwide IT predictions for 2020](https://www.techrepublic.com/article/idc-top-10-worldwide-it-predictions-for-2020/)
+[29] IDC: [Top 10 worldwide IT predictions for 2020](https://www.techrepublic.com/article/idc-top-10-worldwide-it-predictions-for-2020/)
 
-[6] Ogilvy: [What's Next: Social Media Trends 2020](https://www.slideshare.net/socialogilvy/whats-next-social-media-trends-2020?ref=https://www.slideshare.net/socialogilvy/slideshelf)
+[30] Ogilvy: [What's Next: Social Media Trends 2020](https://www.slideshare.net/socialogilvy/whats-next-social-media-trends-2020?ref=https://www.slideshare.net/socialogilvy/slideshelf)
 
-[7] Atos: [Tech Trends 2020+](https://atos.net/content/mini-sites/look-out-2020/tech-trends/)
+[31] Atos: [Tech Trends 2020+](https://atos.net/content/mini-sites/look-out-2020/tech-trends/)
 
-[8] Baidu Research: [10 Technological Trends in 2020](http://research.baidu.com/Blog/index-view?id=129)
+[32] Baidu Research: [10 Technological Trends in 2020](http://research.baidu.com/Blog/index-view?id=129)
 
-[9] SAS: [Artificial Intelligence Trends of 2020](https://www.youtube.com/watch?v=T4-nQOJJpVg)
+[33] SAS: [Artificial Intelligence Trends of 2020](https://www.youtube.com/watch?v=T4-nQOJJpVg)
 
-[10] Huawei: [10 Megatrends for 2025](https://www.huawei.com/minisite/giv/en/) ([pdf](https://www.huawei.com/minisite/giv/Files/whitepaper_en_2019.pdf))
+[34] Huawei: [10 Megatrends for 2025](https://www.huawei.com/minisite/giv/en/) ([pdf](https://www.huawei.com/minisite/giv/Files/whitepaper_en_2019.pdf))
 
-[11] Microsoft: [Retail Trends Playbook 2020](https://info.microsoft.com/rs/157-GQE-382/images/EN-CNTNT-eBook-RetailTrendsPlaybook2020.pdf)
+[35] Microsoft: [Retail Trends Playbook 2020](https://info.microsoft.com/rs/157-GQE-382/images/EN-CNTNT-eBook-RetailTrendsPlaybook2020.pdf)
 
-[12] Oracle: [10 Mega-Trends Transforming the Future of Digital Marketing in 2020](https://blogs.oracle.com/marketingcloud/10-mega-trends-transforming-the-future-of-digital-marketing-in-2020)
+[36] Oracle: [10 Mega-Trends Transforming the Future of Digital Marketing in 2020](https://blogs.oracle.com/marketingcloud/10-mega-trends-transforming-the-future-of-digital-marketing-in-2020)
 
-[13] Forbes Trends Reports ([Med & Health](https://www.forbes.com/sites/bernardmarr/2019/11/01/the-9-biggest-technology-trends-that-will-transform-medicine-and-healthcare-in-2020/#5825e65272cd), [AI](https://www.forbes.com/sites/forbestechcouncil/2020/01/08/2020-ai-predictions-what-we-got-right-in-2019-and-whats-in-store-for-2020/#3b4679641352), [Fintech](https://www.forbes.com/sites/louiscolumbus/2020/12/29/10-ways-ai-is-going-to-improve-fintech-in-2020/#3f6053f74ffd), [More AI](https://www.forbes.com/sites/gilpress/2019/12/18/99-extra-ai-predictions-for-2020/#233d1b0c3afb), [Even more AI](https://www.forbes.com/sites/gilpress/2019/11/22/top-artificial-intelligence-ai-predictions-for-2020-from-idc-and-forrester/#61d0f649315a), [IBM](https://www.forbes.com/sites/ibm/2019/12/09/ibm-tech-trends-to-watch-in-2020--and-beyond/#5f1676e54c1c))
+[37] Forbes Trends Reports ([Med & Health](https://www.forbes.com/sites/bernardmarr/2019/11/01/the-9-biggest-technology-trends-that-will-transform-medicine-and-healthcare-in-2020/#5825e65272cd), [AI](https://www.forbes.com/sites/forbestechcouncil/2020/01/08/2020-ai-predictions-what-we-got-right-in-2019-and-whats-in-store-for-2020/#3b4679641352), [Fintech](https://www.forbes.com/sites/louiscolumbus/2020/12/29/10-ways-ai-is-going-to-improve-fintech-in-2020/#3f6053f74ffd), [More AI](https://www.forbes.com/sites/gilpress/2019/12/18/99-extra-ai-predictions-for-2020/#233d1b0c3afb), [Even more AI](https://www.forbes.com/sites/gilpress/2019/11/22/top-artificial-intelligence-ai-predictions-for-2020-from-idc-and-forrester/#61d0f649315a), [IBM](https://www.forbes.com/sites/ibm/2019/12/09/ibm-tech-trends-to-watch-in-2020--and-beyond/#5f1676e54c1c))
 
-[14] Brandwatch: [Consumer Trends for 2020](https://www.brandwatch.com/reports/consumer-trends-for-2020/view/)
+[38] Brandwatch: [Consumer Trends for 2020](https://www.brandwatch.com/reports/consumer-trends-for-2020/view/)
 
-[15] Marketwatch: [10 tech predictions for 2020: Apple, Tesla, Netflix and more](https://www.marketwatch.com/story/10-tech-predictions-for-2020-apple-tesla-netflix-and-more-2020-01-06)
+[39] Marketwatch: [10 tech predictions for 2020: Apple, Tesla, Netflix and more](https://www.marketwatch.com/story/10-tech-predictions-for-2020-apple-tesla-netflix-and-more-2020-01-06)
 
-[16] [Big data predictions: 8 analytics trends in 2020](https://www.techrepublic.com/article/big-data-predictions-8-analytics-trends-in-2020/)
+[40] [Big data predictions: 8 analytics trends in 2020](https://www.techrepublic.com/article/big-data-predictions-8-analytics-trends-in-2020/)
 
-[17] [WorkMarket 2020 In(Sight) Report: What AI & Automation Really Mean For Work](https://www.workmarket.com/press/workmarket-2020-insight-report-what-artificial-intelligence-automation-mean-for-work)
+[41] [WorkMarket 2020 In(Sight) Report: What AI & Automation Really Mean For Work](https://www.workmarket.com/press/workmarket-2020-insight-report-what-artificial-intelligence-automation-mean-for-work)
 
-[18] [2020 technology trends and the future of work](https://www.dxc.technology/innovation/flxwd/147718-2020_technology_trends)
+[42] [2020 technology trends and the future of work](https://www.dxc.technology/innovation/flxwd/147718-2020_technology_trends)
 
-[19] [Top 7 digital transformation trends shaping 2020](https://www.zdnet.com/article/top-7-digital-transformation-trends-shaping-2020/)
+[43] [Top 7 digital transformation trends shaping 2020](https://www.zdnet.com/article/top-7-digital-transformation-trends-shaping-2020/)
 
-[20] [The top tech predictions for 2020](https://www.cityam.com/top-tech-predictions-2020/)
+[44] [The top tech predictions for 2020](https://www.cityam.com/top-tech-predictions-2020/)
 
-[21] [20 AI Predictions for 2020](https://www.datanami.com/2019/12/30/20-ai-predictions-for-2020/)
+[45] [20 AI Predictions for 2020](https://www.datanami.com/2019/12/30/20-ai-predictions-for-2020/)
 
-[22] [Big Data Predictions: What 2020 Will Bring](https://www.datanami.com/2019/12/23/big-data-predictions-what-2020-will-bring/)
+[46] [Big Data Predictions: What 2020 Will Bring](https://www.datanami.com/2019/12/23/big-data-predictions-what-2020-will-bring/)
 
-[23] [2020 Emerging Technologies Trend: Enteprise DigitalOps processes hyperautomated by IPA platforms](https://medium.com/@pabloesc/2020-emerging-technologies-trend-enteprise-digitalops-processes-hyperautomated-by-ipa-platforms-28624def23a4)
+[47] [Top 10 Technology Trends for 2020](https://www.kdnuggets.com/2020/01/top-10-technology-trends-2020.html)
 
-[24] [Top 10 Technology Trends for 2020](https://www.kdnuggets.com/2020/01/top-10-technology-trends-2020.html)
+[48] [20 Technology Metatrends That Will Define the Next Decade](https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2020/01/10/20-tech-metatrends-to-look-out-for-in-the-2020s/amp/)
 
-[25] [20 Technology Metatrends That Will Define the Next Decade](https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2020/01/10/20-tech-metatrends-to-look-out-for-in-the-2020s/amp/)
+[49] [The Top 10 Artificial Intelligence Trends Everyone Should Be Watching In 2020](https://www.linkedin.com/pulse/top-10-artificial-intelligence-trends-everyone-should-bernard-marr/)
 
-[26] [The Top 10 Artificial Intelligence Trends Everyone Should Be Watching In 2020](https://www.linkedin.com/pulse/top-10-artificial-intelligence-trends-everyone-should-bernard-marr/)
+[50] [6 Technology Trends to Watch in 2020](https://interestingengineering.com/6-technology-trends-to-watch-in-2020)
 
-[27] [6 Technology Trends to Watch in 2020](https://interestingengineering.com/6-technology-trends-to-watch-in-2020)
+[51] [Top 9 data center and tech predictions for 2020](https://www.datacenterdynamics.com/opinions/top-9-data-center-and-tech-predictions-2020/)
 
-[28] [Top 9 data center and tech predictions for 2020](https://www.datacenterdynamics.com/opinions/top-9-data-center-and-tech-predictions-2020/)
+[52] [Top 10 Digital Transformation Trends for 2020](https://oisair.net/news/top-10-digital-transformation-trends-for-2020)
 
-[29] [Top 10 Digital Transformation Trends for 2020](https://oisair.net/news/top-10-digital-transformation-trends-for-2020)
+[53] [11 Customer service trends driving success in coming years](https://acquire.io/blog/customer-service-trends-2020/)
 
-[30] [11 Customer service trends driving success in coming years](https://acquire.io/blog/customer-service-trends-2020/)
+[54] [It’s 2025. How has 5G changed our lives? We asked experts to predict the future](https://www.digitaltrends.com/mobile/2025-how-5g-changed-our-lives/)
 
-[31] [It’s 2025. How has 5G changed our lives? We asked experts to predict the future](https://www.digitaltrends.com/mobile/2025-how-5g-changed-our-lives/)
+[55] [Here are the top tech trends of 2020, according to top experts](https://www.fastcompany.com/90374432/here-are-the-top-tech-trends-of-2020-according-to-top-experts)
 
-[32] [Here are the top tech trends of 2020, according to top experts](https://www.fastcompany.com/90374432/here-are-the-top-tech-trends-of-2020-according-to-top-experts)
-
-[33] [13 Analytics and AI Predictions from 12 Experts for 2020](https://solutionsreview.com/business-intelligence/13-analytics-and-ai-predictions-from-12-experts-for-2020/)
+[56] [13 Analytics and AI Predictions from 12 Experts for 2020](https://solutionsreview.com/business-intelligence/13-analytics-and-ai-predictions-from-12-experts-for-2020/)
 
