@@ -10,7 +10,7 @@ This is a compilation of the most relevant trend reports for 2020.
 
 ## References:
 
-The summary was made considering the following reports. Pdf links are provided separately for the majority of them.
+The summary was made considering the following reports. Pdf links are provided separately for most of them.
 
 #### Accenture
 [1] [Banking in 2020: 10 key trends to watch](https://www.accenture.com/fi-en/insights/banking/10-key-trends-banking-2020) ([pdf](https://financialservices.accenture.com/rs/368-RMC-681/images/Accenture-Top-10-Banking-Trends-2020.pdf))
